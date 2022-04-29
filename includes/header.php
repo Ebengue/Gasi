@@ -1,6 +1,6 @@
- <nav class="navbar navbar-inverse fixed-top navbar-expand-lg navbar-light" style="background-color: 	#87cefa; fixed-top">
+ <nav class="navbar navbar-inverse fixed-top navbar-expand-lg navbar-light" style="background-color: 	#FFFFFF; fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="index.php"><img src="images/logo.png" height="40"></a>
+        <a class="navbar-brand" href="index.php"><img src="images/logo13.png" height="40"></a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
